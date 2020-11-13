@@ -16,7 +16,7 @@
  <p> 
  <ol>
  <li>0/1</li>
- <li> [Issues] (https://github.com/Kamperk/hw_java_1/issues/1) </li>
+ <li> [Issues] <https://github.com/Kamperk/hw_java_1/issues/1> </li>
  </ol>
  
  </p>
